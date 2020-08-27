@@ -3,3 +3,5 @@ ipympl
 ipyvolume
 scipy
 voila
+fastai
+fastai
